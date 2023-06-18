@@ -1,3 +1,5 @@
 import Message from "./message";
+import User from "./user";
+
 let test = "bom";
-export {Message, test}
+export {Message,User, test}
